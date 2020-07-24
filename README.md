@@ -1,6 +1,6 @@
 # flutter_app_az
 
-A new Flutter application for video conf.
+A new Flutter application for video conference.
 
 ## Getting Started
 
